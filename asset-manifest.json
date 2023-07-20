@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/yourCarApp/static/css/main.a5bd85e8.css",
+    "main.js": "/yourCarApp/static/js/main.87ca3c09.js",
+    "static/media/Cars.png": "/yourCarApp/static/media/Cars.bed84c04e76cf8bd9715.png",
+    "static/media/Background.png": "/yourCarApp/static/media/Background.5ec6b6901e54fafa9bfe.png",
+    "static/media/Porsche-911-Transparent-PNG.png": "/yourCarApp/static/media/Porsche-911-Transparent-PNG.368d9f29b65422b8207b.png",
+    "static/media/pngwing.com.png": "/yourCarApp/static/media/pngwing.com.b92e31aa825dfc913219.png",
+    "static/media/about.png": "/yourCarApp/static/media/about.2bfc9b4e06812b35e5fe.png",
+    "static/media/Tesla-Model-S-PNG-Free-Image.png": "/yourCarApp/static/media/Tesla-Model-S-PNG-Free-Image.6d8dfbe6c4bdd496e219.png",
+    "static/media/BMW-7-Series-Transparent-PNG.png": "/yourCarApp/static/media/BMW-7-Series-Transparent-PNG.6dcc99753fe478ac9bad.png",
+    "static/media/CTABG.png": "/yourCarApp/static/media/CTABG.784cbbf285aad2456274.png",
+    "static/media/car4.png": "/yourCarApp/static/media/car4.c33e2fc9372ccc3fa388.png",
+    "static/media/mercedes-benz-s-class.jpg": "/yourCarApp/static/media/mercedes-benz-s-class.9a93d04bb4be1ac19878.jpg",
+    "static/media/tesla-model-s.jpg": "/yourCarApp/static/media/tesla-model-s.0810fab65cd3e40b3c23.jpg",
+    "static/media/image_262.png": "/yourCarApp/static/media/image_262.3f6e4ed691346454b880.png",
+    "static/media/11.svg": "/yourCarApp/static/media/11.594ddd6b4037fdd10e916fbe700d38c8.svg",
+    "index.html": "/yourCarApp/index.html",
+    "static/media/star.svg": "/yourCarApp/static/media/star.c993270121a0a9e84d80d263d1fc4164.svg",
+    "static/media/diamond.svg": "/yourCarApp/static/media/diamond.11497ea027f1b17c9ac1b51fcc214d42.svg",
+    "main.a5bd85e8.css.map": "/yourCarApp/static/css/main.a5bd85e8.css.map",
+    "main.87ca3c09.js.map": "/yourCarApp/static/js/main.87ca3c09.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a5bd85e8.css",
+    "static/js/main.87ca3c09.js"
+  ]
+}
